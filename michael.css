@@ -1,0 +1,51 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+aside > p {
+    margin:.5rem;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+}
+ul{
+    font-size: 1.75em;
+}
+
+ol{
+    font-size: 1.75em;
+}
+.michael {
+    text-align: center;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    font-size: 2em
+}
+img {
+    width: 40%;
+    height: 40%;
+}
+h2 {
+    justify-content: space-evenly;
+    font-size: 6em;
+}
+script{
+    flex-flow: column wrap;
+}
